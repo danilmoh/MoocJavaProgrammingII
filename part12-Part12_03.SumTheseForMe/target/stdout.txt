@@ -1,0 +1,30 @@
+Smallest: 0
+Largest: 0
+
+0
+
+Smallest: 0
+Largest: 999
+
+0
+1
+2
+3
+4
+
+Smallest: 0
+Largest: 999
+
+0
+1
+2
+3
+4
+
+Smallest: 0
+Largest: 999
+
+5
+6
+7
+

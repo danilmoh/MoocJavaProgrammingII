@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: asteroids.AsteroidsTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.466 s <<< FAILURE! - in asteroids.AsteroidsTest
+part3Done(asteroids.AsteroidsTest)  Time elapsed: 0.02 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at asteroids.AsteroidsTest.part3Done(AsteroidsTest.java:24)
+
+part4Done(asteroids.AsteroidsTest)  Time elapsed: 0.008 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at asteroids.AsteroidsTest.part4Done(AsteroidsTest.java:30)
+
